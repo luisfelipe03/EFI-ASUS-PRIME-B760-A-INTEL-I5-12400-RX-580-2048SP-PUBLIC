@@ -16,7 +16,7 @@
 |dGPU|AMD Radeon RX 580 2048SP|
 |Audio|Realtek ALC897|
 |Ethernet|Intel Ethernet I225-V|
-|Wireless/BT|Fenvi BCM94360CD 4 Antennas|
+|Wi-Fi/BT/Airdrop|Fenvi BCM94360CD 4 Antennas|
 |Armazenamento|NVME Kingston NV2 1TB|
 
 ### Working features
